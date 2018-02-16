@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Words</string>
+    <string name="play">Play</string>
+    <string name="add_word">Add new word</string>
+    <string name="all_words">Check all words</string>
+    <string name="ok">ok</string>
+    <string name="delete">delete</string>
+    <string name="your_word">your word</string>
+</resources>
